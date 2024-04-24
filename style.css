@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+form{
+    font-size: 1em;
+    width: 100%;
+    text-align: center;
+}
+textarea{
+    resize: none;
+    display: block;
+    width: 378px;
+    height: 150px;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-weight: 200;
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow:  1px 1px 5px gainsboro;
+}
